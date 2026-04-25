@@ -1,2 +1,2 @@
 # Movie-News-Weather-Chatbot
-Python project using API keys
+Chatbot that gives movie, news and weather details. Made using python language
